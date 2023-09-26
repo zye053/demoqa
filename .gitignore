@@ -1,0 +1,7 @@
+.pytest_cache
+bin
+lib
+test_results
+tests/.pytest_cache
+chromedriver
+.idea
